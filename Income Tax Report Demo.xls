@@ -1,0 +1,2351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+	<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+		<Author/>
+		<Title/>
+		<Description/>
+		<Subject/>
+	</DocumentProperties>
+	<Styles>
+		<Style ss:ID="HyperlinkId" ss:Name="Hyperlink">
+			<Font ss:Color="#0000ff"/>
+		</Style>
+		<Style ss:ID="61">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="20">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="12.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="36">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="37">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="80">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="54">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="49">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="81">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="21">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="22">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="10.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="50">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="60">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="72">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="27">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="[$-409]dd-MMM-yyyy"/>
+		</Style>
+		<Style ss:ID="66">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="74">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="###0.00"/>
+		</Style>
+		<Style ss:ID="38">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="42">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="83">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="88">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="28">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="[$-409]dd-MMM-yyyy"/>
+		</Style>
+		<Style ss:ID="67">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="75">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="###0.00"/>
+		</Style>
+		<Style ss:ID="39">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="43">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="84">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="53">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="78">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="31">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="23">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="48">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="34">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="79">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="9.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="57">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="24">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="35">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="30">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="102">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="1">
+			<NumberFormat ss:Format="yyyy-M-d HH:mm:ss AM/PM"/>
+		</Style>
+		<Style ss:ID="65">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="51">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="90">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="93">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="70">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="52">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="86">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="100">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="71">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="95">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="98">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="68">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="89">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="101">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="63">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="99">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="69">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="85">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="91">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="25">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="92">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="73">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="26">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="82">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="94">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="29">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="96">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="62">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="32">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="55">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="58">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="40">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="44">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="46">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="76">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="97">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="33">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<Interior ss:Color="#ffffff" ss:Pattern="Solid"/>
+		</Style>
+		<Style ss:ID="56">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="59">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="41">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="45">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+			<NumberFormat ss:Format="#,##0.00"/>
+		</Style>
+		<Style ss:ID="47">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="77">
+			<Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="64">
+			<Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top"/>
+				<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+		<Style ss:ID="87">
+			<Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+			<Borders>
+				<Border ss:Position="Bottom"/>
+				<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+				<Border ss:Position="Left"/>
+				<Border ss:Position="Right"/>
+				<Border ss:Position="DiagonalLeft"/>
+			</Borders>
+			<Font ss:FontName="Arial" ss:Size="8.0" ss:Bold="1" ss:Color="#000000"/>
+		</Style>
+	</Styles>
+	<Names>
+		<NamedRange ss:Name="__bookmark_19" ss:RefersTo="Report!R1C1"/>
+		<NamedRange ss:Name="__bookmark_29" ss:RefersTo="Report!R36C1:R43C44"/>
+		<NamedRange ss:Name="__bookmark_18" ss:RefersTo="Report!R1C1:R94C71"/>
+		<NamedRange ss:Name="__bookmark_38" ss:RefersTo="Report!R70C1:R71C53"/>
+		<NamedRange ss:Name="__bookmark_37" ss:RefersTo="Report!R68C28"/>
+		<NamedRange ss:Name="__bookmark_25" ss:RefersTo="Report!R24C1:R26C71"/>
+		<NamedRange ss:Name="__bookmark_36" ss:RefersTo="Report!R65C1:R67C68"/>
+		<NamedRange ss:Name="__bookmark_24" ss:RefersTo="Report!R19C1:R23C71"/>
+		<NamedRange ss:Name="__bookmark_35" ss:RefersTo="Report!R63C1"/>
+		<NamedRange ss:Name="__bookmark_34" ss:RefersTo="Report!R62C1"/>
+		<NamedRange ss:Name="__bookmark_22" ss:RefersTo="Report!R10C1:R16C71"/>
+		<NamedRange ss:Name="__bookmark_33" ss:RefersTo="Report!R60C1:R61C36"/>
+		<NamedRange ss:Name="__bookmark_20" ss:RefersTo="Report!R2C1"/>
+		<NamedRange ss:Name="__bookmark_31" ss:RefersTo="Report!R58C32"/>
+	</Names>
+
+<Worksheet ss:Name="Report">
+	<ss:Table>
+		<ss:Column ss:Width="35.968" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="32.0" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.92" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.28" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.768" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="43.264" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.64" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="22.528" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.536" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="4.096" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.536" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="18.688" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.92" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.64" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.152" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="8.32" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="17.536" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.28" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="14.848" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="6.016" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.152" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.512" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.64" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="2.56" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="13.312" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="15.104" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="8.704" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="6.016" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="4.096" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.512" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="3.456" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="7.936" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="6.528" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.256" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.512" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.768" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="11.136" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="5.376" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="12.672" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="1.792" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.512" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="30.464" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="9.216" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.768" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="4.224" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="5.76" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.384" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="3.072" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="14.592" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="32.0" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.896" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.384" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="10.752" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="39.808" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.384" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="17.792" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="9.472" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="23.296" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.256" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="36.992" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="13.696" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.256" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.688" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.256" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="2.048" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="48.64" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="37.248" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="13.568" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="0.128" ss:AutoFitWidth="0"/>
+		<ss:Column ss:Width="50.944" ss:AutoFitWidth="0"/>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="70">
+				<Data ss:Type="String">Aspire Software Solutions</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="70">
+				<Data ss:Type="String">202, Parishram Complex, Mithakhali Six Roads, Navrangpura, Ahmedabad - 380009</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="20" ss:MergeAcross="70">
+				<Data ss:Type="String">Income Tax Computation For The Financial Year 2023-2024</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="21" ss:MergeAcross="70">
+				<Data ss:Type="String">Statement as of Aug 2023</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="1">
+				<Data ss:Type="String">Employee No.:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26" ss:MergeAcross="9">
+				<Data ss:Type="String">110028</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="24" ss:MergeAcross="11">
+				<Data ss:Type="String">Name:</Data>
+			</Cell>
+			<Cell ss:Index="25" ss:StyleID="26" ss:MergeAcross="32">
+				<Data ss:Type="String">Pravin Gandhi</Data>
+			</Cell>
+			<Cell ss:Index="58" ss:StyleID="22" ss:MergeAcross="13" ss:MergeDown="3"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="1">
+				<Data ss:Type="String">PAN No. :</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26" ss:MergeAcross="9">
+				<Data ss:Type="String">ACMPG7798P</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="24" ss:MergeAcross="11">
+				<Data ss:Type="String">Gender : </Data>
+			</Cell>
+			<Cell ss:Index="25" ss:StyleID="26" ss:MergeAcross="14">
+				<Data ss:Type="String">Male</Data>
+			</Cell>
+			<Cell ss:Index="40" ss:StyleID="24" ss:MergeAcross="9">
+				<Data ss:Type="String">Location:</Data>
+			</Cell>
+			<Cell ss:Index="50" ss:StyleID="26" ss:MergeAcross="7">
+				<Data ss:Type="String">Ahmedabad</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="1">
+				<Data ss:Type="String">Date of Join:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="28" ss:MergeAcross="9">
+				<Data ss:Type="DateTime">2013-12-01T00:00:00.000</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="29" ss:MergeAcross="11">
+				<Data ss:Type="String">Date of Birth :</Data>
+			</Cell>
+			<Cell ss:Index="25" ss:StyleID="28" ss:MergeAcross="14">
+				<Data ss:Type="DateTime">1950-06-01T00:00:00.000</Data>
+			</Cell>
+			<Cell ss:Index="40" ss:StyleID="24" ss:MergeAcross="9">
+				<Data ss:Type="String">Date of Leaving:</Data>
+			</Cell>
+			<Cell ss:Index="50" ss:StyleID="26" ss:MergeAcross="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="1">
+				<Data ss:Type="String">Tax Regime:</Data>
+			</Cell>
+			<Cell ss:Index="3" ss:StyleID="26" ss:MergeAcross="9">
+				<Data ss:Type="String">OLD</Data>
+			</Cell>
+			<Cell ss:Index="13" ss:StyleID="24" ss:MergeAcross="11">
+				<Data ss:Type="String">Residential Status :</Data>
+			</Cell>
+			<Cell ss:Index="25" ss:StyleID="26" ss:MergeAcross="14"/>
+			<Cell ss:Index="40" ss:StyleID="24" ss:MergeAcross="9">
+				<Data ss:Type="String">Age :</Data>
+			</Cell>
+			<Cell ss:Index="50" ss:StyleID="26" ss:MergeAcross="7">
+				<Data ss:Type="String">73 years and 4 months</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="30" ss:MergeAcross="70"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="31" ss:MergeAcross="70">
+				<Data ss:Type="String">A) Taxable Income</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="31" ss:MergeAcross="70">
+				<Data ss:Type="String">(i) Monthly Income</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="33" ss:MergeAcross="5">
+				<Data ss:Type="String">Pay Items</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="6">
+				<Data ss:Type="String"> Total</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="37" ss:MergeAcross="7">
+				<Data ss:Type="String">Apr  2023</Data>
+			</Cell>
+			<Cell ss:Index="22" ss:StyleID="37" ss:MergeAcross="7">
+				<Data ss:Type="String">May  2023</Data>
+			</Cell>
+			<Cell ss:Index="30" ss:StyleID="37" ss:MergeAcross="10">
+				<Data ss:Type="String">Jun 2023</Data>
+			</Cell>
+			<Cell ss:Index="41" ss:StyleID="37" ss:MergeAcross="5">
+				<Data ss:Type="String">July 2023</Data>
+			</Cell>
+			<Cell ss:Index="47" ss:StyleID="37" ss:MergeAcross="4">
+				<Data ss:Type="String">Aug 2023</Data>
+			</Cell>
+			<Cell ss:Index="52" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Sep 2023</Data>
+			</Cell>
+			<Cell ss:Index="55" ss:StyleID="37" ss:MergeAcross="3">
+				<Data ss:Type="String">Oct 2023</Data>
+			</Cell>
+			<Cell ss:Index="59" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Nov 2023</Data>
+			</Cell>
+			<Cell ss:Index="62" ss:StyleID="37" ss:MergeAcross="1">
+				<Data ss:Type="String">Dec 2023</Data>
+			</Cell>
+			<Cell ss:Index="64" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Jan 2024</Data>
+			</Cell>
+			<Cell ss:Index="67" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Feb 2024</Data>
+			</Cell>
+			<Cell ss:Index="70" ss:StyleID="35" ss:MergeAcross="1">
+				<Data ss:Type="String">Mar  2024</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="5">
+				<Data ss:Type="String">BASIC</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="39" ss:MergeAcross="6">
+				<Data ss:Type="Number">375000.0000</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="22" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="30" ss:StyleID="39" ss:MergeAcross="10">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="41" ss:StyleID="39" ss:MergeAcross="5">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="47" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="52" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="55" ss:StyleID="39" ss:MergeAcross="3">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="59" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="62" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="64" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="67" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+			<Cell ss:Index="70" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">31250.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="5">
+				<Data ss:Type="String">HRA</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="39" ss:MergeAcross="6">
+				<Data ss:Type="Number">150000.0000</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="22" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="30" ss:StyleID="39" ss:MergeAcross="10">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="41" ss:StyleID="39" ss:MergeAcross="5">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="47" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="52" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="55" ss:StyleID="39" ss:MergeAcross="3">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="59" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="62" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="64" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="67" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+			<Cell ss:Index="70" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">12500.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="5">
+				<Data ss:Type="String">SPECIAL ALLOWANCE</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="39" ss:MergeAcross="6">
+				<Data ss:Type="Number">975000.0000</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="22" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="30" ss:StyleID="39" ss:MergeAcross="10">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="41" ss:StyleID="39" ss:MergeAcross="5">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="47" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="52" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="55" ss:StyleID="39" ss:MergeAcross="3">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="59" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="62" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="64" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="67" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+			<Cell ss:Index="70" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">81250.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="5">
+				<Data ss:Type="String"> Total</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="41" ss:MergeAcross="6">
+				<Data ss:Type="Number">1500000.0</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="22" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="30" ss:StyleID="41" ss:MergeAcross="10">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="41" ss:StyleID="41" ss:MergeAcross="5">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="47" ss:StyleID="41" ss:MergeAcross="4">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="52" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="55" ss:StyleID="41" ss:MergeAcross="3">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="59" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="62" ss:StyleID="41" ss:MergeAcross="1">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="64" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="67" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+			<Cell ss:Index="70" ss:StyleID="41" ss:MergeAcross="1">
+				<Data ss:Type="Number">125000.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="30" ss:MergeAcross="70"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="30" ss:MergeAcross="70"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="31" ss:MergeAcross="70">
+				<Data ss:Type="String">B) Deduction</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="33" ss:MergeAcross="6">
+				<Data ss:Type="String">Pay Items</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="35" ss:MergeAcross="6">
+				<Data ss:Type="String"> Total</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="37" ss:MergeAcross="7">
+				<Data ss:Type="String">Apr 2023</Data>
+			</Cell>
+			<Cell ss:Index="23" ss:StyleID="37" ss:MergeAcross="7">
+				<Data ss:Type="String">May 2023</Data>
+			</Cell>
+			<Cell ss:Index="31" ss:StyleID="37" ss:MergeAcross="10">
+				<Data ss:Type="String">Jun 2023</Data>
+			</Cell>
+			<Cell ss:Index="42" ss:StyleID="37" ss:MergeAcross="5">
+				<Data ss:Type="String">Jul 2023</Data>
+			</Cell>
+			<Cell ss:Index="48" ss:StyleID="37" ss:MergeAcross="4">
+				<Data ss:Type="String">Aug 2023</Data>
+			</Cell>
+			<Cell ss:Index="53" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Sep 2023</Data>
+			</Cell>
+			<Cell ss:Index="56" ss:StyleID="37" ss:MergeAcross="3">
+				<Data ss:Type="String">Oct 2023</Data>
+			</Cell>
+			<Cell ss:Index="60" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Nov 2023</Data>
+			</Cell>
+			<Cell ss:Index="63" ss:StyleID="37" ss:MergeAcross="1">
+				<Data ss:Type="String">Dec 2023</Data>
+			</Cell>
+			<Cell ss:Index="65" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Jan 2024</Data>
+			</Cell>
+			<Cell ss:Index="68" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Feb 2024</Data>
+			</Cell>
+			<Cell ss:Index="71" ss:StyleID="35">
+				<Data ss:Type="String">Mar 2024</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="6">
+				<Data ss:Type="String">INCOME TAX</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="39" ss:MergeAcross="6">
+				<Data ss:Type="Number">84684.0000</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">21171.0000</Data>
+			</Cell>
+			<Cell ss:Index="23" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">21171.0000</Data>
+			</Cell>
+			<Cell ss:Index="31" ss:StyleID="43" ss:MergeAcross="10">
+				<Data ss:Type="Number">21171.0</Data>
+			</Cell>
+			<Cell ss:Index="42" ss:StyleID="39" ss:MergeAcross="5">
+				<Data ss:Type="Number">21171.0000</Data>
+			</Cell>
+			<Cell ss:Index="48" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="53" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="56" ss:StyleID="39" ss:MergeAcross="3">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="60" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="63" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="65" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="68" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="71" ss:StyleID="39">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="6">
+				<Data ss:Type="String">PROF TAX</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="39" ss:MergeAcross="6">
+				<Data ss:Type="Number">2400.0000</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="23" ss:StyleID="39" ss:MergeAcross="7">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="31" ss:StyleID="43" ss:MergeAcross="10">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="42" ss:StyleID="39" ss:MergeAcross="5">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="48" ss:StyleID="39" ss:MergeAcross="4">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="53" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="56" ss:StyleID="39" ss:MergeAcross="3">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="60" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="63" ss:StyleID="39" ss:MergeAcross="1">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="65" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="68" ss:StyleID="39" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+			<Cell ss:Index="71" ss:StyleID="39">
+				<Data ss:Type="Number">200.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="6">
+				<Data ss:Type="String"> Total</Data>
+			</Cell>
+			<Cell ss:Index="8" ss:StyleID="45" ss:MergeAcross="6">
+				<Data ss:Type="Number">87084.0</Data>
+			</Cell>
+			<Cell ss:Index="15" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="Number">21371.0</Data>
+			</Cell>
+			<Cell ss:Index="23" ss:StyleID="41" ss:MergeAcross="7">
+				<Data ss:Type="Number">21371.0</Data>
+			</Cell>
+			<Cell ss:Index="31" ss:StyleID="45" ss:MergeAcross="10">
+				<Data ss:Type="Number">21371.0</Data>
+			</Cell>
+			<Cell ss:Index="42" ss:StyleID="41" ss:MergeAcross="5">
+				<Data ss:Type="Number">21371.0</Data>
+			</Cell>
+			<Cell ss:Index="48" ss:StyleID="41" ss:MergeAcross="4">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="53" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="56" ss:StyleID="41" ss:MergeAcross="3">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="60" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="63" ss:StyleID="41" ss:MergeAcross="1">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="65" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="68" ss:StyleID="41" ss:MergeAcross="2">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+			<Cell ss:Index="71" ss:StyleID="41">
+				<Data ss:Type="Number">200.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="31" ss:MergeAcross="70">
+				<Data ss:Type="String">C) Perquisites</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="33" ss:MergeAcross="5">
+				<Data ss:Type="String">Pay Items</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="35" ss:MergeAcross="6">
+				<Data ss:Type="String"> Total</Data>
+			</Cell>
+			<Cell ss:Index="14" ss:StyleID="37" ss:MergeAcross="7">
+				<Data ss:Type="String">Apr  2023</Data>
+			</Cell>
+			<Cell ss:Index="22" ss:StyleID="37" ss:MergeAcross="7">
+				<Data ss:Type="String">May  2023</Data>
+			</Cell>
+			<Cell ss:Index="30" ss:StyleID="37" ss:MergeAcross="10">
+				<Data ss:Type="String">Jun 2023</Data>
+			</Cell>
+			<Cell ss:Index="41" ss:StyleID="37" ss:MergeAcross="5">
+				<Data ss:Type="String">July 2023</Data>
+			</Cell>
+			<Cell ss:Index="47" ss:StyleID="37" ss:MergeAcross="4">
+				<Data ss:Type="String">Aug 2023</Data>
+			</Cell>
+			<Cell ss:Index="52" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Sep 2023</Data>
+			</Cell>
+			<Cell ss:Index="55" ss:StyleID="37" ss:MergeAcross="3">
+				<Data ss:Type="String">Oct 2023</Data>
+			</Cell>
+			<Cell ss:Index="59" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Nov 2023</Data>
+			</Cell>
+			<Cell ss:Index="62" ss:StyleID="37" ss:MergeAcross="1">
+				<Data ss:Type="String">Dec 2023</Data>
+			</Cell>
+			<Cell ss:Index="64" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Jan 2024</Data>
+			</Cell>
+			<Cell ss:Index="67" ss:StyleID="37" ss:MergeAcross="2">
+				<Data ss:Type="String">Feb 2024</Data>
+			</Cell>
+			<Cell ss:Index="70" ss:StyleID="35" ss:MergeAcross="1">
+				<Data ss:Type="String">Mar  2024</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="5">
+				<Data ss:Type="String"> Total</Data>
+			</Cell>
+			<Cell ss:Index="7" ss:StyleID="47" ss:MergeAcross="6"/>
+			<Cell ss:Index="14" ss:StyleID="47" ss:MergeAcross="7"/>
+			<Cell ss:Index="22" ss:StyleID="47" ss:MergeAcross="7"/>
+			<Cell ss:Index="30" ss:StyleID="47" ss:MergeAcross="10"/>
+			<Cell ss:Index="41" ss:StyleID="47" ss:MergeAcross="5"/>
+			<Cell ss:Index="47" ss:StyleID="47" ss:MergeAcross="4"/>
+			<Cell ss:Index="52" ss:StyleID="47" ss:MergeAcross="2"/>
+			<Cell ss:Index="55" ss:StyleID="47" ss:MergeAcross="3"/>
+			<Cell ss:Index="59" ss:StyleID="47" ss:MergeAcross="2"/>
+			<Cell ss:Index="62" ss:StyleID="47" ss:MergeAcross="1"/>
+			<Cell ss:Index="64" ss:StyleID="47" ss:MergeAcross="2"/>
+			<Cell ss:Index="67" ss:StyleID="47" ss:MergeAcross="2"/>
+			<Cell ss:Index="70" ss:StyleID="47" ss:MergeAcross="1"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="32">
+				<Data ss:Type="String">D) Gross Salary (A+C)  .................................................................................</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="48" ss:MergeAcross="10">
+				<Data ss:Type="Number">1500000.0000</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="43">
+				<Data ss:Type="String">E) Less exemption under Section 10</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="32">
+				<Data ss:Type="String">Item</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="50" ss:MergeAcross="10">
+				<Data ss:Type="String">Exemption</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="26" ss:MergeAcross="32">
+				<Data ss:Type="String">House Rent Allowance : Section 10(13A)</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="52" ss:MergeAcross="10">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="15">
+				<Data ss:Type="String">Total Rent Paid p.a</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="56" ss:MergeAcross="16"/>
+			<Cell ss:Index="34" ss:StyleID="57" ss:MergeAcross="10"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="15">
+				<Data ss:Type="String">HRA Recieved</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="59" ss:MergeAcross="16">
+				<Data ss:Type="Number">150000.0000</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="57" ss:MergeAcross="10"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="15">
+				<Data ss:Type="String">40 % of Basic</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="59" ss:MergeAcross="16">
+				<Data ss:Type="Number">150000.0000</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="57" ss:MergeAcross="10"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="15">
+				<Data ss:Type="String">Rent Paid > 10% Basic</Data>
+			</Cell>
+			<Cell ss:Index="17" ss:StyleID="59" ss:MergeAcross="16">
+				<Data ss:Type="Number">-37500.0000</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="57" ss:MergeAcross="10"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="32">
+				<Data ss:Type="String">Leave Travel Assistance : Sec. 10(5) </Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="59" ss:MergeAcross="10">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">ACTUAL UNIFORM EXEMPTION</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">CAR EXEMPT</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">DRIVER SALARY EXEMPT</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">EDUCATION EXEMPT</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">GRAUITY CAL EXEMPTION</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">GRAUITY EXEMPTION</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">Internet Exemption</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="33">
+				<Data ss:Type="String">Telephone Exemption</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="63" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="65" ss:MergeAcross="33">
+				<Data ss:Type="String">Total Exemptions</Data>
+			</Cell>
+			<Cell ss:Index="35" ss:StyleID="67" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="43">
+				<Data ss:Type="String">F ) Income from  Previous employer</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="13"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="30">
+				<Data ss:Type="String">Pay Items</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="50" ss:MergeAcross="12">
+				<Data ss:Type="String">Amount</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="30">
+				<Data ss:Type="String">Total Income</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="59" ss:MergeAcross="12">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="30">
+				<Data ss:Type="String">Income Tax</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="59" ss:MergeAcross="12">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="30">
+				<Data ss:Type="String">Professional Tax</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="59" ss:MergeAcross="12">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="30">
+				<Data ss:Type="String">Provident Fund</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="59" ss:MergeAcross="12">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="54" ss:MergeAcross="30">
+				<Data ss:Type="String">Employer NPS Deduction</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="59" ss:MergeAcross="12">
+				<Data ss:Type="Number">0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="30">
+				<Data ss:Type="String">G) Income after exemption ( D - E + F ) ..................................................</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="48" ss:MergeAcross="12">
+				<Data ss:Type="Number">1500000.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="30">
+				<Data ss:Type="String">H) Less Deduction under Section 16  ....................................................</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="48" ss:MergeAcross="12">
+				<Data ss:Type="Number">52400.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24">
+				<Data ss:Type="String">Sl.No.</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="69" ss:MergeAcross="34">
+				<Data ss:Type="String">Description</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="50" ss:MergeAcross="7">
+				<Data ss:Type="String">Amount</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="71">
+				<Data ss:Type="String">(i)</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="73" ss:MergeAcross="34">
+				<Data ss:Type="String">Tax on Employment : Sec 16(iii)</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="75" ss:MergeAcross="7">
+				<Data ss:Type="Number">2400.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="71">
+				<Data ss:Type="String">(ii)</Data>
+			</Cell>
+			<Cell ss:Index="2" ss:StyleID="73" ss:MergeAcross="34">
+				<Data ss:Type="String">Standard Deduction : Sec 16(ia)</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="67" ss:MergeAcross="7">
+				<Data ss:Type="Number">50000.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="30">
+				<Data ss:Type="String">I) Income chargeable under the head salaries (G - H)  .......................</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="48" ss:MergeAcross="12">
+				<Data ss:Type="Number">1447600.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="30">
+				<Data ss:Type="String">J) Add any other income declared by the employee (a+b)...............</Data>
+			</Cell>
+			<Cell ss:Index="32" ss:StyleID="48" ss:MergeAcross="12">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="67">
+				<Data ss:Type="String">(a) Other Income</Data>
+			</Cell>
+			<Cell ss:Index="69" ss:StyleID="30" ss:MergeAcross="2" ss:MergeDown="8"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="37" ss:MergeAcross="9">
+				<Data ss:Type="String">Description</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="37" ss:MergeAcross="25">
+				<Data ss:Type="String">Amount</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="30" ss:MergeAcross="31" ss:MergeDown="1"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="9">
+				<Data ss:Type="String">Sub Total</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="77" ss:MergeAcross="25"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="34">
+				<Data ss:Type="String">(b) Income/Loss from house property [ (i) + (ii) ].........................</Data>
+			</Cell>
+			<Cell ss:Index="36" ss:StyleID="48" ss:MergeAcross="12">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="49" ss:StyleID="30" ss:MergeAcross="19"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="34">
+				<Data ss:Type="String">     (i) Interest on housing loan (Self occupied).......................</Data>
+			</Cell>
+			<Cell ss:Index="36" ss:StyleID="48" ss:MergeAcross="12">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="49" ss:StyleID="30" ss:MergeAcross="19"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="67">
+				<Data ss:Type="String">     (ii) Income/Loss from letout property</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="79" ss:MergeAcross="2">
+				<Data ss:Type="String">Property No</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="79" ss:MergeAcross="5">
+				<Data ss:Type="String">Annual Rent Recieved</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="79" ss:MergeAcross="9">
+				<Data ss:Type="String">Municipal Taxes</Data>
+			</Cell>
+			<Cell ss:Index="20" ss:StyleID="79" ss:MergeAcross="12">
+				<Data ss:Type="String">Unrealized Rent</Data>
+			</Cell>
+			<Cell ss:Index="33" ss:StyleID="79" ss:MergeAcross="9">
+				<Data ss:Type="String">Net Annual Value(2-(3+4))</Data>
+			</Cell>
+			<Cell ss:Index="43" ss:StyleID="79" ss:MergeAcross="7">
+				<Data ss:Type="String">Standard Deduction @30%</Data>
+			</Cell>
+			<Cell ss:Index="51" ss:StyleID="79" ss:MergeAcross="5">
+				<Data ss:Type="String">Interest on housing loan</Data>
+			</Cell>
+			<Cell ss:Index="57" ss:StyleID="79" ss:MergeAcross="3">
+				<Data ss:Type="String">Income/Loss(5-(6+7))</Data>
+			</Cell>
+			<Cell ss:Index="61" ss:StyleID="79" ss:MergeAcross="4">
+				<Data ss:Type="String">Contribution Rate</Data>
+			</Cell>
+			<Cell ss:Index="66" ss:StyleID="79" ss:MergeAcross="2">
+				<Data ss:Type="String">Considered Amount</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="79" ss:MergeAcross="2">
+				<Data ss:Type="String">(1)</Data>
+			</Cell>
+			<Cell ss:Index="4" ss:StyleID="79" ss:MergeAcross="5">
+				<Data ss:Type="String">(2)</Data>
+			</Cell>
+			<Cell ss:Index="10" ss:StyleID="79" ss:MergeAcross="9">
+				<Data ss:Type="String">(3)</Data>
+			</Cell>
+			<Cell ss:Index="20" ss:StyleID="79" ss:MergeAcross="12">
+				<Data ss:Type="String">(4)</Data>
+			</Cell>
+			<Cell ss:Index="33" ss:StyleID="79" ss:MergeAcross="9">
+				<Data ss:Type="String">(5)</Data>
+			</Cell>
+			<Cell ss:Index="43" ss:StyleID="79" ss:MergeAcross="7">
+				<Data ss:Type="String">(6)</Data>
+			</Cell>
+			<Cell ss:Index="51" ss:StyleID="79" ss:MergeAcross="5">
+				<Data ss:Type="String">(7)</Data>
+			</Cell>
+			<Cell ss:Index="57" ss:StyleID="79" ss:MergeAcross="3">
+				<Data ss:Type="String">(8)</Data>
+			</Cell>
+			<Cell ss:Index="61" ss:StyleID="79" ss:MergeAcross="4">
+				<Data ss:Type="String">(9)</Data>
+			</Cell>
+			<Cell ss:Index="66" ss:StyleID="79" ss:MergeAcross="2">
+				<Data ss:Type="String">(10)</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="81" ss:MergeAcross="59">
+				<Data ss:Type="String">Total  :</Data>
+			</Cell>
+			<Cell ss:Index="61" ss:StyleID="82" ss:MergeAcross="4"/>
+			<Cell ss:Index="66" ss:StyleID="84" ss:MergeAcross="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="26">
+				<Data ss:Type="String">K) Gross Total Income (I + J) ..........................................................</Data>
+			</Cell>
+			<Cell ss:Index="28" ss:StyleID="48" ss:MergeAcross="15">
+				<Data ss:Type="Number">1447600.0</Data>
+			</Cell>
+			<Cell ss:Index="44" ss:StyleID="30" ss:MergeAcross="27" ss:MergeDown="1"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="26">
+				<Data ss:Type="String">L) Deduction under chapter VI A ...................................................</Data>
+			</Cell>
+			<Cell ss:Index="28" ss:StyleID="48" ss:MergeAcross="15">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="33" ss:MergeAcross="17">
+				<Data ss:Type="String">Investment</Data>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="37" ss:MergeAcross="6">
+				<Data ss:Type="String">Section</Data>
+			</Cell>
+			<Cell ss:Index="26" ss:StyleID="35" ss:MergeAcross="11">
+				<Data ss:Type="String">Gross</Data>
+			</Cell>
+			<Cell ss:Index="38" ss:StyleID="35" ss:MergeAcross="7">
+				<Data ss:Type="String">Qualifying</Data>
+			</Cell>
+			<Cell ss:Index="46" ss:StyleID="35" ss:MergeAcross="7">
+				<Data ss:Type="String">Deductible</Data>
+			</Cell>
+			<Cell ss:Index="54" ss:StyleID="30" ss:MergeAcross="17" ss:MergeDown="1"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="24" ss:MergeAcross="17">
+				<Data ss:Type="String">Sub Total</Data>
+			</Cell>
+			<Cell ss:Index="19" ss:StyleID="82" ss:MergeAcross="6"/>
+			<Cell ss:Index="26" ss:StyleID="77" ss:MergeAcross="11"/>
+			<Cell ss:Index="38" ss:StyleID="77" ss:MergeAcross="7"/>
+			<Cell ss:Index="46" ss:StyleID="77" ss:MergeAcross="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="32">
+				<Data ss:Type="String">M) Taxable Income .................................................................................</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="48" ss:MergeAcross="10">
+				<Data ss:Type="Number">1447600.0000</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="4"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="32">
+				<Data ss:Type="String">N) Total Tax to be Paid ...........................................................................</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="48" ss:MergeAcross="10">
+				<Data ss:Type="Number">254051.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="88" ss:MergeAcross="4">
+				<Data ss:Type="String">Income Tax</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="89" ss:MergeAcross="4">
+				<Data ss:Type="String">Surcharge</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="90" ss:MergeAcross="9">
+				<Data ss:Type="String">Health &amp; Edu. Cess</Data>
+			</Cell>
+			<Cell ss:Index="21" ss:StyleID="89" ss:MergeAcross="15">
+				<Data ss:Type="String">Total</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="30" ss:MergeAcross="7" ss:MergeDown="1"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="93" ss:MergeAcross="4">
+				<Data ss:Type="Number">244280.0000</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="63" ss:MergeAcross="4">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="94" ss:MergeAcross="9">
+				<Data ss:Type="Number">9771.0000</Data>
+			</Cell>
+			<Cell ss:Index="21" ss:StyleID="63" ss:MergeAcross="15">
+				<Data ss:Type="Number">254051.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="32">
+				<Data ss:Type="String">O) Tax Paid Till Date  ...................................................................................</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="48" ss:MergeAcross="10">
+				<Data ss:Type="Number">84684.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="95" ss:MergeAcross="7"/>
+			<Cell ss:Index="9" ss:StyleID="89" ss:MergeAcross="8">
+				<Data ss:Type="String">Income Tax</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="97" ss:MergeAcross="8">
+				<Data ss:Type="String">Surcharge</Data>
+			</Cell>
+			<Cell ss:Index="27" ss:StyleID="97" ss:MergeAcross="11">
+				<Data ss:Type="String">Health &amp; Edu. Cess</Data>
+			</Cell>
+			<Cell ss:Index="39" ss:StyleID="97" ss:MergeAcross="5">
+				<Data ss:Type="String">Total</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="4"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="99" ss:MergeAcross="7">
+				<Data ss:Type="String">Deduction Through Payroll</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="43" ss:MergeAcross="8">
+				<Data ss:Type="Number">81428.0000</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="59" ss:MergeAcross="8">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="27" ss:StyleID="59" ss:MergeAcross="11">
+				<Data ss:Type="Number">3256.0000</Data>
+			</Cell>
+			<Cell ss:Index="39" ss:StyleID="59" ss:MergeAcross="5">
+				<Data ss:Type="Number">84684.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="7">
+				<Data ss:Type="String">Direct TDS</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="43" ss:MergeAcross="8">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="59" ss:MergeAcross="8">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="27" ss:StyleID="59" ss:MergeAcross="11">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="39" ss:StyleID="59" ss:MergeAcross="5">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="61" ss:MergeAcross="7">
+				<Data ss:Type="String">Previous Employment</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="43" ss:MergeAcross="8">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="59" ss:MergeAcross="8">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="27" ss:StyleID="59" ss:MergeAcross="11">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="39" ss:StyleID="59" ss:MergeAcross="5">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="101" ss:MergeAcross="7">
+				<Data ss:Type="String">Total</Data>
+			</Cell>
+			<Cell ss:Index="9" ss:StyleID="45" ss:MergeAcross="8">
+				<Data ss:Type="Number">81428.0</Data>
+			</Cell>
+			<Cell ss:Index="18" ss:StyleID="67" ss:MergeAcross="8">
+				<Data ss:Type="Number">0.0</Data>
+			</Cell>
+			<Cell ss:Index="27" ss:StyleID="67" ss:MergeAcross="11">
+				<Data ss:Type="Number">3256.0</Data>
+			</Cell>
+			<Cell ss:Index="39" ss:StyleID="67" ss:MergeAcross="5">
+				<Data ss:Type="Number">84684.0</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="35">
+				<Data ss:Type="String">P) Relief Under Section 89  ..............................................................................</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="48" ss:MergeAcross="7">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="89" ss:MergeAcross="4">
+				<Data ss:Type="String">Income Tax</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="97" ss:MergeAcross="4">
+				<Data ss:Type="String">Surcharge</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="97" ss:MergeAcross="9">
+				<Data ss:Type="String">Health &amp; Edu. Cess</Data>
+			</Cell>
+			<Cell ss:Index="21" ss:StyleID="97" ss:MergeAcross="15">
+				<Data ss:Type="String">Total</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="30" ss:MergeAcross="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="63" ss:MergeAcross="4">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="59" ss:MergeAcross="4">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="59" ss:MergeAcross="9">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="21" ss:StyleID="59" ss:MergeAcross="15">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="30" ss:MergeAcross="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="35">
+				<Data ss:Type="String">Q) Annual Tax Balance  .................................................................................</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="48" ss:MergeAcross="7">
+				<Data ss:Type="Number">169367.0</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="89" ss:MergeAcross="4">
+				<Data ss:Type="String">Income Tax</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="97" ss:MergeAcross="4">
+				<Data ss:Type="String">Surcharge</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="97" ss:MergeAcross="9">
+				<Data ss:Type="String">Health &amp; Edu. Cess</Data>
+			</Cell>
+			<Cell ss:Index="21" ss:StyleID="97" ss:MergeAcross="15">
+				<Data ss:Type="String">Total</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="30" ss:MergeAcross="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="63" ss:MergeAcross="4">
+				<Data ss:Type="Number">162852.0000</Data>
+			</Cell>
+			<Cell ss:Index="6" ss:StyleID="59" ss:MergeAcross="4">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="11" ss:StyleID="59" ss:MergeAcross="9">
+				<Data ss:Type="Number">6515.0000</Data>
+			</Cell>
+			<Cell ss:Index="21" ss:StyleID="59" ss:MergeAcross="15">
+				<Data ss:Type="Number">169367.0</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="30" ss:MergeAcross="7"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="32">
+				<Data ss:Type="String">R) TDS Recovered in current month ..........................................................</Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="48" ss:MergeAcross="10">
+				<Data ss:Type="Number">21171.0000</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="102" ss:MergeAcross="35">
+				<Data ss:Type="String">i) Monthly tax</Data>
+			</Cell>
+			<Cell ss:Index="37" ss:StyleID="30" ss:MergeAcross="34" ss:MergeDown="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="89" ss:MergeAcross="3">
+				<Data ss:Type="String">Income Tax</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="97" ss:MergeAcross="6">
+				<Data ss:Type="String">Surcharge</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="97" ss:MergeAcross="11">
+				<Data ss:Type="String">Health &amp; Edu. Cess</Data>
+			</Cell>
+			<Cell ss:Index="24" ss:StyleID="97" ss:MergeAcross="12">
+				<Data ss:Type="String">Total</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="63" ss:MergeAcross="3">
+				<Data ss:Type="Number">20357.0000</Data>
+			</Cell>
+			<Cell ss:Index="5" ss:StyleID="59" ss:MergeAcross="6">
+				<Data ss:Type="Number">0.0000</Data>
+			</Cell>
+			<Cell ss:Index="12" ss:StyleID="59" ss:MergeAcross="11">
+				<Data ss:Type="Number">814.0000</Data>
+			</Cell>
+			<Cell ss:Index="24" ss:StyleID="59" ss:MergeAcross="12">
+				<Data ss:Type="Number">21171.0000</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="32">
+				<Data ss:Type="String">S) </Data>
+			</Cell>
+			<Cell ss:Index="34" ss:StyleID="48" ss:MergeAcross="10" ss:MergeDown="1">
+				<Data ss:Type="Number">148196.0</Data>
+			</Cell>
+			<Cell ss:Index="45" ss:StyleID="30" ss:MergeAcross="26" ss:MergeDown="2"/>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="29" ss:MergeAcross="32">
+				<Data ss:Type="String">Balance Payable (in 7 Installments) - Income Tax</Data>
+			</Cell>
+		</Row>
+		<Row ss:AutoFitHeight="1">
+			<Cell ss:Index="1" ss:StyleID="30" ss:MergeAcross="4"/>
+			<Cell ss:Index="6" ss:StyleID="29" ss:MergeAcross="38">
+				<Data ss:Type="String">@Rate of Rs. 21170.86 per month from Sep 2023</Data>
+			</Cell>
+		</Row>
+	</ss:Table>
+	<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+		<PageSetup>
+			<PageMargins x:Bottom="0.1499861" x:Left="0.099999994" x:Right="0.099999994" x:Top="0.1499861"/>
+			<Layout x:Orientation="Landscape"/>
+			<Header/>
+			<Footer/>
+		</PageSetup>
+		<Print>
+			<PaperSizeIndex>1</PaperSizeIndex>
+		</Print>
+	</WorksheetOptions>
+</Worksheet>
+</Workbook>
